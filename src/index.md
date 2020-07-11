@@ -11,12 +11,12 @@ name: 陈冬华
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
-    text: https://blog.winterchen.com
+    text: blog.winterchen.com
     url: https://blog.winterchen.com
   # 邮箱
   - icon: fas fa-envelope
     text: i@winterchen.com
-    url: i@winterchen.com
+    url: mailto:i@winterchen.com
   # 电话号码
   - icon: fas fa-phone-alt
     text: 15258800530
@@ -25,7 +25,7 @@ contact:
 download:
   title: 下载PDF版
   icon: fas fa-download fa-fw
-  url: http://img.winterchen.com/Java%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%20-%20%E9%99%88%E5%86%AC%E5%8D%8E%20-%2015258800630-20200711.pdf
+  url: http://img.winterchen.com/Java%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%20-%20%E9%99%88%E5%86%AC%E5%8D%8E%20-%2015258800630-2020071101.pdf
 ---
 
 {% raw %}
@@ -39,6 +39,15 @@ download:
 </grid>
 {% endraw %}
 
+
+
+## <i class="fa fa-id-badge"></i> 个人简介
+
+男 | 27岁 | 本科 | 浙江杭州 | 5年经验
+
+## <i class="fa fa-handshake-o"></i> 求职意向
+
+Java高级开发工程师 | 浙江杭州 | 20K-25K | 1个月内到岗
 
 
 ## <i class="fas fa-user-tie"></i> 工作经验

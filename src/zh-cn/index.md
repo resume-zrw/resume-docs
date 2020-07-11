@@ -11,12 +11,12 @@ name: 陈冬华
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
-    text: https://blog.winterchen.com
+    text: blog.winterchen.com
     url: https://blog.winterchen.com
   # 邮箱
   - icon: fas fa-envelope
     text: i@winterchen.com
-    url: i@winterchen.com
+    url: mailto:i@winterchen.com
   # 电话号码
   - icon: fas fa-phone-alt
     text: 15258800530
@@ -25,20 +25,29 @@ contact:
 download:
   title: 下载PDF版
   icon: fas fa-download fa-fw
-  url: http://img.winterchen.com/Java%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%20-%20%E9%99%88%E5%86%AC%E5%8D%8E%20-%2015258800630-20200711.pdf
+  url: http://img.winterchen.com/Java%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%20-%20%E9%99%88%E5%86%AC%E5%8D%8E%20-%2015258800630-2020071101.pdf
 ---
 
 {% raw %}
 <grid>
 <avatar><img src="http://img.winterchen.com/20200711221115.png"></avatar>
-<h1>Hexo 简历主题</h1>
+<h1>个人简历</h1>
 <center>
-<a href='/'>English</a> | <a href='/zh-cn/'>简体中文</a>
+<a href='https://blog.winterchen.com'>Blog</a> | <a href='https://github.com/WinterChenS'>Github</a>
 </center>
 <br>
 </grid>
 {% endraw %}
 
+
+
+## <i class="fa fa-id-badge"></i> 个人简介
+
+男 | 27岁 | 本科 | 浙江杭州 | 5年经验
+
+## <i class="fa fa-handshake-o"></i> 求职意向
+
+Java高级开发工程师 | 浙江杭州 | 20K-25K | 1个月内到岗
 
 
 ## <i class="fas fa-user-tie"></i> 工作经验
@@ -81,13 +90,9 @@ download:
   <img src='http://img.winterchen.com/geometry-logo.png'>
   GEOMETRY
 </a>
-<a href='https://apps.apple.com/cn/app/c-life%E5%85%BB%E8%80%81/id1393937890'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/het-clife/icon.png'>
-  吉利APP
-</a>
 <a href='#'>
   <img src='http://img.winterchen.com/geely-logo.png'>
-  LinkSmart
+  吉利APP
 </a>
 </btns><br>
 {% endraw %}
