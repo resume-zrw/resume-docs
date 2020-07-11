@@ -84,7 +84,7 @@ Java高级开发工程师 | 浙江杭州 | 20K-25K | 1个月内到岗
 <btns rounded>
 <a href='https://apps.apple.com/cn/app/lynkco/id1305517667'>
   <img src='http://img.winterchen.com/lynkco-logo.png'>
-  Lynkco APP
+  Lynkco
 </a>
 <a href='https://apps.apple.com/cn/app/geometry/id1456960408'>
   <img src='http://img.winterchen.com/geometry-logo.png'>
