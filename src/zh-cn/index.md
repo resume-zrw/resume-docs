@@ -30,7 +30,7 @@ download:
 
 {% raw %}
 <grid>
-<avatar><img src="http://img.winterchen.com/20200711221115.png"></avatar>
+<avatar><img src="http://img.winterchen.com/20200711221115-1.png"></avatar>
 <h1>个人简历</h1>
 <center>
 <a href='https://blog.winterchen.com'>Blog</a> | <a href='https://github.com/WinterChenS'>Github</a>
