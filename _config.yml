@@ -159,7 +159,7 @@ lazyload:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
 - type: git
-  repo: git@github.com:xaoxuu/resume.js.org.git
+  repo: git@github.com:WinResume/WinResume.github.io.git
   branch: master
   message: update pages
 
