@@ -45,7 +45,7 @@ download:
 
 男 | 27岁 | 本科 | 浙江杭州 | 5年经验
 
-## <i class="fa fa-handshake-o"></i> 求职意向
+## <i class="fa fa-coffee"></i> 求职意向
 
 Java高级开发工程师 | 浙江杭州 | 20K-25K | 1个月内到岗
 
