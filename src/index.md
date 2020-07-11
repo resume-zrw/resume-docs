@@ -81,13 +81,9 @@ download:
   <img src='http://img.winterchen.com/geometry-logo.png'>
   GEOMETRY
 </a>
-<a href='https://apps.apple.com/cn/app/c-life%E5%85%BB%E8%80%81/id1393937890'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/het-clife/icon.png'>
-  吉利APP
-</a>
 <a href='#'>
   <img src='http://img.winterchen.com/geely-logo.png'>
-  LinkSmart
+  吉利APP
 </a>
 </btns><br>
 {% endraw %}
