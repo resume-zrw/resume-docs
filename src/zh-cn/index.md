@@ -2,35 +2,35 @@
 # 语言 （可选）
 lang: zh-cn
 # 网页关键词和描述
-keywords: 简历主题,Hexo主题,简历模板
-description: 这是一个在线简历模板（Hexo博客主题）。
+keywords: 简历,Java高级开发,杭州
+description: 这是一份Java开发简历。
 # 简历标题
-resume_title: Jon Snow's Resume
+resume_title: Winter Chen's Resume
 # 应聘者姓名
-name: Jon Snow
+name: 陈冬华
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
-    text: https://resume.js.org
-    url: https://resume.js.org/zh-cn/
+    text: https://blog.winterchen.com
+    url: https://blog.winterchen.com
   # 邮箱
   - icon: fas fa-envelope
-    text: your email
-    url:
+    text: i@winterchen.com
+    url: i@winterchen.com
   # 电话号码
   - icon: fas fa-phone-alt
-    text: 1xxxxxxxxxx
-    url: tel:10086
+    text: 15258800530
+    url: tel:15258800630
 # PDF下载链接
 download:
-  title: 下载本站源码
+  title: 下载PDF版
   icon: fas fa-download fa-fw
-  url: https://github.com/xaoxuu/resume-docs
+  url: http://img.winterchen.com/Java%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%20-%20%E9%99%88%E5%86%AC%E5%8D%8E%20-%2015258800630-20200711.pdf
 ---
 
 {% raw %}
 <grid>
-<avatar><img src="https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png"></avatar>
+<avatar><img src="http://img.winterchen.com/20200711221115.png"></avatar>
 <h1>Hexo 简历主题</h1>
 <center>
 <a href='/'>English</a> | <a href='/zh-cn/'>简体中文</a>
@@ -40,37 +40,32 @@ download:
 {% endraw %}
 
 
-## <i class="fas fa-flag"></i> 开始使用
-
-请直接下载本站的源码，参考源码进行改写。
-
-- 本站源码：https://github.com/xaoxuu/resume-docs
-- 主题源码：https://github.com/xaoxuu/hexo-theme-resume
-
-
-## <i class="fas fa-user-graduate"></i> 教育背景
-
-**XX大学 X学院 X系 X专业 X年毕业**
-
 
 ## <i class="fas fa-user-tie"></i> 工作经验
 
 
-#### 2000年 ~ 至今：XX公司
+#### 2018.1 ~ 至今：吉利控股集团   Java开发一级工程师
 
-- 主要负责XXX
-- 也负责XXX
+- 负责集团消费者(领克APP，几何APP)和经销商系统(营销助手)开发和维护；
+- 业务中台核心开发人员；
+- 负责公共组件的开发；
+- 主导了docker和k8s相关技术的落地；
+- 主导了持续集成与自动化部署等技术的落地；
 
 
-#### 1900年 ~ 2000年：XX公司
 
-- 主要负责XXX
-- 也负责XXX
+#### 2017.3 ~ 2017.12：杭州三重奏科技有限公司   Java开发工程师
 
-#### 1800年 ~ 1900年：XX公司
+- Java 团队开发和小组管理经验：案场接访平台，房源线上分销平台，客户数据 分析平台，集团管理平台；
+- 从 1.0 上线开始参与开发和维护工作至今，主要完成了新模块的开发工作；
+- 客户数据分析平台小组负责人参与框架搭建、代码编写、业务迭代排期、线上 异常监控、BUG 修复等工作；
+- 集团平台的的代码编写和Bug修复；
 
-- 主要负责XXX
-- 也负责XXX
+#### 2016.4 ~ 2017.2：江西美和科技有限公司   Java开发工程师
+
+- Java 团队开发经验：仓库管理平台
+- 负责客户调研、客户需求分析、方案写作等工作；
+- 团队的各个成员分工合作，完成了整合项目的开发、测试、维护、上线以及迭代。
 
 
 ## <i class="fas fa-award"></i> 精选项目
@@ -78,74 +73,130 @@ download:
 
 {% raw %}
 <btns rounded>
-<a href='https://apps.apple.com/cn/app/heart-mate-pro-hrm-utility/id1463348922?ls=1'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/heartmate/icon.png'>
-  心率管家
+<a href='https://apps.apple.com/cn/app/lynkco/id1305517667'>
+  <img src='http://img.winterchen.com/lynkco-logo.png'>
+  Lynkco APP
 </a>
-<a href='https://apps.apple.com/cn/app/c%E5%85%BB%E8%80%81/id1458315594'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/het-cyanglao/icon.png'>
-  C养老
+<a href='https://apps.apple.com/cn/app/geometry/id1456960408'>
+  <img src='http://img.winterchen.com/geometry-logo.png'>
+  GEOMETRY
 </a>
 <a href='https://apps.apple.com/cn/app/c-life%E5%85%BB%E8%80%81/id1393937890'>
   <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/het-clife/icon.png'>
-  C-Life养老
+  吉利APP
 </a>
-<a href='https://apps.apple.com/cn/app/linksmart/id1109303355'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-linksmart/icon.png'>
+<a href='#'>
+  <img src='http://img.winterchen.com/geely-logo.png'>
   LinkSmart
-</a>
-<a href='https://apps.apple.com/cn/app/hitfit/id1207738581'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-hitfit/icon.png'>
-  HitFit
-</a>
-<a href='https://apps.apple.com/cn/app/%E8%85%95%E8%83%BD%E5%8A%A9%E6%89%8B/id1138242219'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-fiyta/icon.png'>
-  飞亚达腕能助手
 </a>
 </btns><br>
 {% endraw %}
 
 
-### A项目
+### 吉利APP
 
-#### 2000/01 ~ 2019/01：于XX公司开发，团队项目，维护至今
+#### 2020.6 ~ 至今：技术经理
 
-啦啦啦
+1.负责吉利APP项目的架构、技术以及对于开发质量(code review)的管控； 
+2.对项目的业务，技术，物理架构的评审； 
+3.技术解决方案的提供； 
+4.内部标准规范传递； 
+5.Devops平台的推进；
+6.基础核心代码编写；
 
-### B项目
+### 数字营销生态项目群项目
 
-#### 1900/01 ~ 2000/01：于XX公司开发
+#### 2019.3 ~ 2020.5：核心后端开发
 
-啦啦啦
+1.主要负责业务中台的领克APP管理后台,几何APP，内容中心，会员中心等模块， 以及公共组件的开发； 
+2.主导线上环境Docker，k8s等容器化技术的落地； 
+3.编写日志全链路追踪公共组件，用于线上问题快速定位； 
+4.与其他工程师合作，使用搜索引擎解决了多个系统数据无法分页的问题； 
+5.使用Jenkins+Docker对堡垒机下的测试环境进行持续集成与自动化部署； 
+6.使用Redis和Solr等中间件对消费者业务进行缓存，减少了50%数据查询时间； 
+7.对JVM进行调优和问题定位； 
+8.负责公司技术文档的编写和维护，定期团队共同学习以及成长。
 
-### C项目
+### G助手
 
-#### 1800/01 ~ 1900/01：于XX公司开发
+#### 2018.12 ~ 2019.2：后端开发
 
-啦啦啦
+客户端：主要功能是经销商对于客户看车、购车的整个流程的协作，包含了潜在客 户跟进，试乘试驾，面容识别，驾驶证录入、第三方媒体信息的流入等等；作为iO S、安卓，H5等后台API； 
+服务端：Linux 
+开发技术：SpringBoot/Dubbo/Oracle/Mybaits/RabbitMQ/Redis 
+工作职责：新功能模块代码的编写，客户端API的接入部分；
+
+
+### 经销商营销平台
+
+#### 2018.7 ~ 2019.2：后端开发
+
+客户端：项目功能过于庞大，涵盖了主机厂、销售公司、经销商等所有的协作功能：售前、售后、采购、经销商管理等一系列的功能； 
+开发技术：Spring/Mybatis/Oracle/RabbitMQ 
+主要职责：潜客业务、报表业务等模块的功能编写；数据库分库分表的功能以及逻辑的编写；数据库SQL的调优；
+
+### CEP广宣核销系统
+
+#### 2018.8 ~ 2018.11：后端开发兼架构师
+
+客户端功能：集团对于经销商活动的策划以及活动开展的全生命周期的管理；涵盖 了流程的审核，财务报销API的接入； 
+服务端：Linux； 接入API：财务报销API、BPM流程API；云盘存储API 
+开发技术：SpringCloud/Springboot/mysql/Mybatis/RabbitMQ/Redis 
+工作职责：负责服务端从零开始的项目选型以及搭建、业务代码的编写、数据库S QL的调优、相关内部系统API的接入；
+
+### PQMS项目管理平台
+
+#### 2018.1 ~ 2018.7：Java后端开发
+
+客户端功能：主要功能是对公司所有项目的生命周期的管理平台； 
+服务端：Linux服务器； 接入API：JIRA、BPM； 
+开发技术：SpringCloud/Springboot/mysql/Mybatis/RaabitMQ/Redis 
+工作职责：负责服务端代码的编写，数据库的调优，客户端API的接入、第三方API 的接入；
+
+### 九邑SaaS线上分销平台
+
+#### 2017.3 ~ 2017.12：Java后端开发
+
+架构：该系统采用Spring，springMVC，hibernate框架，mySQL数据库，jQuer y&CSS&HTML等前台技术，以及redis作为日志的存储数据库，Elasticsearch+Lo gstash+Kibana作为日志的实时分析平台 
+功能：项目主要是企业的ERP系统，为线上的房地产分销解决方案，解决了传统房 地产与房产中介之间的痛点，同时解决了案场的客户数据的集中和分析。项目主要功能为ERP的管理系统，实现了版本管理，用户管理，案场管理，审核管理，客户 数据分析，以及日志的分析。我负责了案场的注册、审核、数据分析。而且单独搭 建了一个对各个案场的客户数据进行归集的系统，实现了数据源的实时生成，数据 表的实时创建，并且实现了每个案场不一样的数据源切换，然后将其数据进行归并 和存储，还有集团管理平台的所有编码以及调试。
+
+
+### 仓库管理平台
+
+#### 2016.4 ~ 2017.2：Java后端开发
+
+该平台采用了spring+springMVC+Mybatis的架构，实现了员工的权限管理，以 及货物的分类和仓库分区，实现了货物的进出增删改查。我负责了货物的增删改查 ，以及权限管理，以及代码的调试部署以及后期的迭代和维护。
 
 ## <i class="fab fa-github"></i> 开源贡献
 
 
-### Volantis
+### my-site
 
-#### 2017 ~ 至今，一个简约的卡片式Hexo博客主题
+#### 2018/5 ~ 至今，一个Docker+SpringBoot2.0+Mybatis+thymeleaf实现的个人主页网站
 
-- 完全自由的模块化、易于定制化设计
+- 风格简约，对萌新友好
 - 移动端优化
-- 源码：https://github.com/xaoxuu/hexo-theme-volantis
-- 官网：https://volantis.js.org/
+- 源码：https://github.com/WinterChenS/my-site
 
-### ProHUD
+### trace-spring-boot
 
-#### 2019/08 ~ 至今，易于定制、接口简单的HUD库
+#### 2020/03 ~ 至今，MDC 实现的日志链路追踪组件
 
-- 使用Swift5编写。
-- 包含顶部通知横幅、弹窗、底部操作表三种使用场景的UI控件。
-- 易于配置UI从而满足公司各业务线的UI要求，接口调用简单明了。
-- 源码：https://github.com/xaoxuu/ProHUD
+- 基于MDC
+- 为springboot starter组件，开箱即用。
+- 实现了常用的rpc常用组件如dubbo、feign，以及http调用，并且对熔断器提供了支持。
+- 源码：https://github.com/WinterChenS/trace-spring-boot
 
-<fancybox>
+### delay-server
+
+#### 2020/05 ~ 至今，基于RabbitMQ实现的延迟服务
+
+- 基于RabbitMQ私信队列实现
+- 设计为一个可以拓展并且公共的延迟回调服务。
+- 消息的可靠性极高。
+- 源码：https://github.com/WinterChenS/delay-server
+
+<!-- <fancybox>
 <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot01.png'>
 <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot02.png'>
 <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot03.png'>
@@ -156,36 +207,18 @@ download:
 <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot08.png'>
 <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot09.png'>
 <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot10.png'>
-</fancybox>
+</fancybox> -->
 
 ## <i class="fas fa-phone-alt"></i> 与我联系
 
-目前状态为：在职，考虑换工作，100年内可到岗。
+目前状态为：在职，考虑换工作，1个月内可到岗。
 
-<i class="fas fa-envelope fa-fw"></i> your email
-<i class="fas fa-phone-alt fa-fw"></i> 1xxxxxxxxxx
+<i class="fas fa-envelope fa-fw"></i> i@winterchen.com
+<i class="fas fa-phone-alt fa-fw"></i> 15258800630
 
 
-## 主题配置
+## <i class="fas fa-user-graduate"></i> 教育背景
 
-```yaml
-cdn:
-  # These base libraries cannot be deleted
-  jquery: https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js
-  vue: https://cdn.jsdelivr.net/npm/vue@2.5.21/dist/vue.min.js
-  # When these CDN resources are deleted, local resources are loaded.
-  common: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/common.js
-  escape: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/css.escape.js
-  smooth_scroll: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/smooth-scroll.min.js
-  css: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/css/style.min.css
-  # Optional plug-in: image zoom
-  fancybox:
-    css: https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css
-    js: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js
+**南昌航空大学 模具设计与制造 14年毕业**
 
-# robots meta tag
-robots: noindex,nofollow
 
-# the footer of your site
-copyright: '[Copyright © 2017-2020 Mr. X](https://xaoxuu.com)'
-```
