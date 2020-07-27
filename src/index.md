@@ -2,12 +2,12 @@
 # 语言 （可选）
 lang: zh-cn
 # 网页关键词和描述
-keywords: 简历,Java高级开发,杭州
-description: 这是一份Java开发简历。
+keywords: 简历,高级运维工程师,杭州
+description: 这是一份运维工程师简历。
 # 简历标题
-resume_title: Winter Chen's Resume
+resume_title: ZhangRuiWen's Resume
 # 应聘者姓名
-name: 陈冬华
+name: 张瑞文
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
@@ -15,17 +15,17 @@ contact:
     url: https://blog.winterchen.com
   # 邮箱
   - icon: fas fa-envelope
-    text: i@winterchen.com
-    url: mailto:i@winterchen.com
+    text: 573155235@qq.com
+    url: mailto:573155235@qq.com
   # 电话号码
   - icon: fas fa-phone-alt
-    text: 15258800530
-    url: tel:15258800630
+    text: 15180180886
+    url: tel:15180180886
 # PDF下载链接
 download:
   title: 下载PDF版
   icon: fas fa-download fa-fw
-  url: http://img.winterchen.com/Java%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%20-%20%E9%99%88%E5%86%AC%E5%8D%8E%20-%2015258800630-2020071101.pdf
+  url: https://baidu.com
 ---
 
 {% raw %}
@@ -218,8 +218,8 @@ Java高级开发工程师 | 浙江杭州 | 20K-25K | 1个月内到岗
 
 目前状态为：在职，考虑换工作，1个月内可到岗。
 
-<i class="fas fa-envelope fa-fw"></i> i@winterchen.com
-<i class="fas fa-phone-alt fa-fw"></i> 15258800630
+<i class="fas fa-envelope fa-fw"></i> 573155235@qq.com
+<i class="fas fa-phone-alt fa-fw"></i> 15180180886
 
 
 ## <i class="fas fa-user-graduate"></i> 教育背景
