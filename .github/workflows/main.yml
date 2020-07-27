@@ -27,14 +27,14 @@ jobs:
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan github.com >> ~/.ssh/known_hosts
         # set git infomation
-        git config --global user.name 'winterchens' # 换成你自己的邮箱和名字
-        git config --global user.email '1085143002@qq.com'
+        git config --global user.name 'zhangruiwens' # 换成你自己的邮箱和名字
+        git config --global user.email '573155235@qq.com'
         # install dependencies
         npm i -g hexo-cli # 安装hexo
         npm i
         # 拉取主题代码
         rm -rf themes/*
-        git clone https://github.com/WinResume/hexo-theme-resume.git themes/resume
+        git clone https://github.com/resume-zrw/hexo-theme-resume.git themes/resume
         
   
     - name: Deploy
